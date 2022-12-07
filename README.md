@@ -1,5 +1,5 @@
 # Baritone-1.19.2
-Just an unofficial compiled jar of baritone 1.19.2
+Just an unofficial compiled jar of baritone 1.19.2 please go to https://github.com/cabaletta/baritone for the real project.
 
 <p align="center">
   <a href="https://github.com/cabaletta/baritone/releases/"><img src="https://img.shields.io/github/downloads/cabaletta/baritone/total.svg" alt="GitHub All Releases"/></a>
